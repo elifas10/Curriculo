@@ -13,3 +13,4 @@ Recursos do Projeto:
     • Testes Automatizados com Cypress (Web e API): Implementação de testes automatizados utilizando o framework Cypress, tanto para testes de interface web quanto para testes de APIs.
       
     • Metodologias Ágeis e Filosofia Lean: Aplicação de metodologias ágeis e princípios da filosofia Lean para garantir a entrega rápida e eficiente de software de alta qualidade.
+
